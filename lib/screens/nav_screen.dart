@@ -39,7 +39,6 @@ class _NavScreenState extends State<NavScreen> {
 
   @override
   Widget build(BuildContext context) {
-    // Hello There
     final screenSize = MediaQuery.of(context).size;
     return DefaultTabController(
         length: _icons.length,
