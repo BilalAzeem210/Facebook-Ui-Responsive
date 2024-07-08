@@ -14,7 +14,8 @@ class Palette {
   static const LinearGradient storyGradient = LinearGradient(
     begin: Alignment.topCenter,
     end: Alignment.bottomCenter,
-    colors: [Colors.transparent, Colors.black26],
+    colors: [Colors.transparent, Colors.black26, Colors.cyan, Colors.green],
+
 
   );
 }
