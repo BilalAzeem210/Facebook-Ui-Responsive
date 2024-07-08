@@ -15,5 +15,7 @@ class Palette {
     begin: Alignment.topCenter,
     end: Alignment.bottomCenter,
     colors: [Colors.transparent, Colors.black26],
+
+    // hello there
   );
 }
