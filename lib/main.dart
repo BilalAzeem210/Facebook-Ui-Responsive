@@ -1,5 +1,4 @@
 import 'package:facebook_ui_resposive/config/palette.dart';
-import 'package:facebook_ui_resposive/screens/home_screen.dart';
 import 'package:facebook_ui_resposive/screens/nav_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -9,7 +8,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
+  //hello this is new changes for checking push pull
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
